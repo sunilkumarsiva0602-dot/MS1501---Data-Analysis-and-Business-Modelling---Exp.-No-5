@@ -144,5 +144,7 @@ Cluster centroids (Income, Spending Score):
 
 Inertia (within-cluster sum of squares): 810.33
 ```
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/100648b6-8b0a-422e-a6d3-38b271edc3be" />
+
 ## Result
 Thus, K-Means Clustering for market segmentation was executed successfully.
